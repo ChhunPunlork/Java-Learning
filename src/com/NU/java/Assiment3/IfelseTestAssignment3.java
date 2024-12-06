@@ -36,7 +36,7 @@ public class IfelseTestAssignment3 {
 				if(score <= 100 && score >= 95) {
 					grade = 'A';
 					System.out.println("Score: " + score + " is grade: " + grade);
-				}else if(score <=94 && score >=93) {
+				}else if(score <=94 && score >=83) {
 					grade = 'B';
 					System.out.println("Score: " + score + " is grade: " + grade);
 				}else if(score <=82 && score >=70) {
